@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Welcome!</h2>
+<h1 style="text-align: center">Welcome To My Github!</h2>
 
 <p>I am a self-taught game and software developer. <br>My main tools for game development are Unreal Engine 4, Blender, and C++ although I also have experience with using C# and Unity 2D, as well as creating web browser games with JavaScript.</p>
 <p>For software, my weapon of choice is Python. My goal is to create ad free, simple to use, and intuitive applications.</p> 
