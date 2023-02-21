@@ -21,14 +21,14 @@
 </ul>
 
 <h3>Try my Unity Game Demo:</h3>
-
+<ul>
 <li>
 <a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a>
 </li>
-
+</ul>
 <h3>Visit my Gumroad store:</h3>
-
+<ul>
 <li>
 <a href="https://jrh89.gumroad.com" target="">Hooker Hill Studios</a>
 </li>
-
+</ul>
