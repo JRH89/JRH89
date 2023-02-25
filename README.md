@@ -8,7 +8,7 @@
 <li>
 <a hrwf="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
 <h3>Check out some of my published pages:</h3>
-
+</ul>
 <ul>
 <li>
 <a href="https://jrh89.GitHub.io/ImprovedCovidCounter" target="">covidCOUNTER</a>
