@@ -6,7 +6,7 @@
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
-<a hrwf="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
+<a href="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
 <h3>Check out some of my published pages:</h3>
 </ul>
 <ul>
