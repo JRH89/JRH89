@@ -8,6 +8,7 @@
 <li>
 <a href="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
 <h3>Check out some of my published pages:</h3>
+</li>
 </ul>
 <ul>
 <li>
