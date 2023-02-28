@@ -4,6 +4,7 @@
 <p>For software, my tools of choice are Python and JavaScript. My goal is to create ad free, simple to use, and intuitive applications.</p> 
 
 <h3>What am I working on?</h3>
+<Img SRC="https://github.com/JRH89/DigitalBusinessCard/blob/8d61b1d0a2a6c205cf44ce23cfa8740af65fa4aa/Screenshot_20230227-202506-791.png">
 <p>I am working on an app that allows the user to input their name, job title, 6 links, and 8-16 skills.
 A digital business card will be created and a qr code that leads to it will be generated.
 A simple and easy way to share contact information and share links to your projects,
