@@ -11,7 +11,7 @@ A simple and easy way to share contact information and share links to your proje
 profiles, or anything else you would like people to see.</p>
 <ul>
 <li>
-<a href="https://jrh89.github.io/DigitalBusinessCard" target="">Sample Digital Business Card</a>
+<a href="https://jrh89.github.io/DigitalBusinessCard/profile" target="">Sample Digital Business Card</a>
 </li>
 </ul>
 <h3>Apps on the Google Play Store:</h3>
