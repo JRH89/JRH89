@@ -3,17 +3,6 @@
 <p>I am a self-taught game and software developer. <br>My main tools for game development are Unreal Engine 4, Blender, and C++ although I also have experience with using C# and Unity 2D, as well as creating web browser games with JavaScript.</p>
 <p>For software, my tools of choice are Python and JavaScript. My goal is to create ad free, simple to use, and intuitive applications.</p> 
 
-<h3>What am I working on?</h3>
-<Img SRC="https://github.com/JRH89/DigitalBusinessCard/blob/8d61b1d0a2a6c205cf44ce23cfa8740af65fa4aa/Screenshot_20230227-202506-791.png">
-<p>I am working on an app that allows the user to input their name, job title, 6 links, and 8-16 skills.
-A digital business card will be created and a qr code that leads to it will be generated.
-A simple and easy way to share contact information and share links to your projects,
-profiles, or anything else you would like people to see.</p>
-<ul>
-<li>
-<a href="https://jrh89.gumroad.com/l/gmxiyh" target="">Purchase A Personalized Digital Business Card on Gumroad</a>
-</li>
-</ul>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
