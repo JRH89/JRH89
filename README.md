@@ -30,7 +30,7 @@
 </li>
 </ul>
 
-<h3>Try my Unity Game Demo:</h3>
+<h3>Try my Unity Game:</h3>
 <ul>
 <li>
 <a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a>
