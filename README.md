@@ -18,6 +18,12 @@
 <h3>Check out some of my published pages:</h3>
 <ul>
 <li>
+<a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
+</li>
+<li>
+<a href="https://digitalbizcard.netlify.app" target="">Digital Business Card (web version)</a>
+</li>
+<li>
 <a href="https://jrh89.GitHub.io/ImprovedCovidCounter" target="">covidCOUNTER</a>
 </li>
 <li>
@@ -43,3 +49,18 @@
 <a href="https://jrh89.gumroad.com" target="">Hooker Hill Studios</a>
 </li>
 </ul>
+
+<h3>Play some of my browser games:</h3>
+<ul>
+<li>
+<a href="https://jaredsportfolio.netlify.app/runner.html" target="">STARRUNNER</a>
+</li>
+<li>
+<a href="https://jaredsportfolio.netlify.app/pong" target="">Handball</a>
+</li>
+<li>
+<a href="https://jaredsportfolio.netlify.app/shooter" target="">Arcade Shooting Gallery</a>
+</li>
+<li>
+<a href="https://jaredsportfolio.netlify.app/memorymatcher" target="">Emoji Memory Matcher</a>
+</li>
