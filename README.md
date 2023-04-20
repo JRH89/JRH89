@@ -64,3 +64,7 @@
 <li>
 <a href="https://jaredsportfolio.netlify.app/memorymatcher" target="">Emoji Memory Matcher</a>
 </li>
+<li>
+<a href="https://jrh89.github.io/WeatherReportSuite" target="">Weather Report Suite</a>
+</li>
+</ul>
