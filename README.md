@@ -24,7 +24,7 @@
 <a href="https://digitalbizcard.netlify.app" target="">Digital Business Card (web version)</a>
 </li>
 <li>
-<a href="https://jrh89.GitHub.io/ImprovedCovidCounter" target="">covidCOUNTER</a>
+<a href="https://countingcovid.netlify.app" target="">covidCOUNTER</a>
 </li>
 <li>
 <a href="https://jrh89.GitHub.io/FMDownloadPage" target="">GUI for Youtube-dl</a>
