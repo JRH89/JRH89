@@ -64,7 +64,4 @@
 <li>
 <a href="https://jaredsportfolio.netlify.app/shooter" target="">Arcade Shooting Gallery</a>
 </li>
-<li>
-<a href="https://jaredsportfolio.netlify.app/memorymatcher" target="">Emoji Memory Matcher</a>
-</li>
 </ul>
