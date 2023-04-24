@@ -12,6 +12,9 @@
 <a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="">STARRUNNER</a>
 </li>
 <li>
+<a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="">Weather Report Suite</a>
+</li>
+<li>
 <a href="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
 </li>
 </ul>
