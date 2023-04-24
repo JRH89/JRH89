@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Welcome To My Github!</h2>
 
-<p>I am a self-taught game and software developer. <br>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity 2D, as well as creating web browser games with JavaScript.</p>
-<p>For software, my tools of choice are Python and JavaScript. My goal is to create simple to use and intuitive applications.</p> 
+<p>I am a self-taught game and software developer. <br>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
+<p>For software, my tools of choice are Python and JavaScript. I am familiar with Node, Next, Tailwind, and Firebase.</p> 
 
 <h3>Apps on the Google Play Store:</h3>
 <ul>
@@ -17,6 +17,12 @@
 </ul>
 <h3>Check out some of my published pages:</h3>
 <ul>
+<li>
+<a href="https://nextjs-blog-jrh89.vercel.app/" target="">Blog</a>
+</li>
+<li>
+<a href="https://nextjs-todo-rose.vercel.app" target="">ToDo List App</a>
+</li>
 <li>
 <a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
 </li>
