@@ -2,7 +2,9 @@
 
 <p>I am a self-taught game and software developer.</p><p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
 <p>For software, my tools of choice are Python and JavaScript. I am familiar with Node, Next, Tailwind, and Firebase.</p> 
-
+<a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=unreal,unity,py,nodejs,nextjs,tailwind&perline=6" />
+      </a>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
