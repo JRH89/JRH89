@@ -32,7 +32,7 @@
 <a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
 </li>
 <li>
-<a href="https://digitalbizcard.netlify.app" target="">Digital Business Card (web version)</a>
+<a href="https://next-mycard.vercel.app" target="">My Card (digital business card generator)</a>
 </li>
 <li>
 <a href="https://countingcovid.netlify.app" target="">covidCOUNTER</a>
