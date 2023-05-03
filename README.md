@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Welcome To My Github!</h2>
 
 <p>I am a self-taught game and software developer.</p><p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
-<p>For software, my tools of choice are Python and JavaScript.<br> My current stack is Nextjs, TailwindCSS, and Firebase (auth, db) deployed with Vercel.</p> 
+<p>For software, my language of choice is JavaScript.<br> My current stack is React, Node, Nextjs, TailwindCSS, and Firebase (auth, db) deployed with Vercel.</p> 
  <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,github,vscode,netlify,nodejs,react,nextjs,tailwind,firebase,vercel&perline=6" />
  </a>
