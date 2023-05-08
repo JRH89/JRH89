@@ -1,5 +1,7 @@
 <h1 style="text-align: center">Welcome To My Github!</h2>
+
 Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker
+
 <p>I am a self-taught game and software developer.</p><p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
 <p>For software, my language of choice is JavaScript.<br> My current stack is React, Node, Nextjs, TailwindCSS, and Firebase (auth, db) deployed with Vercel.</p> 
  <a href="https://skillicons.dev">
