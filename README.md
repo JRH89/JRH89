@@ -22,8 +22,11 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
 </li>
 </ul>
-<h3>Check out some of my published pages:</h3>
+<h3>Check out some of my websites and web apps:</h3>
 <ul>
+<li>
+ <a href="https://qrcoder-lac.vercel.app" target="">QR Code Generator</a>
+ </li>
 <li>
 <a href="https://nextjs-blog-jrh89.vercel.app/" target="">Blog</a>
 </li>
