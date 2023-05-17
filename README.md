@@ -25,7 +25,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <h3>Check out some of my websites and web apps:</h3>
 <ul>
 <li>
- <a href="https://qrcoder-lac.vercel.app" target="">QR Code Generator</a>
+ <a href="https://next-jewelry.vercel.app" target="">Jewelry Store</a>
  </li>
 <li>
 <a href="https://nextjs-blog-jrh89.vercel.app/" target="">Blog</a>
