@@ -53,10 +53,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a>
 </li>
 </ul>
-<h3>Visit my Gumroad store:</h3>
-<ul>
 
-</ul>
 
 <h3>Play some of my browser games:</h3>
 <ul>
