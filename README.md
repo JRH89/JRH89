@@ -30,7 +30,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <li>
 <a href="https://nextjs-blog-jrh89.vercel.app/" target="">Blog</a>
 </li>
-
+<li>
 <a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
 </li>
 <li>
