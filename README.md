@@ -30,19 +30,13 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <li>
 <a href="https://nextjs-blog-jrh89.vercel.app/" target="">Blog</a>
 </li>
-<li>
-<a href="https://nextjs-todo-rose.vercel.app" target="">ToDo List App</a>
-</li>
-<li>
+
 <a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
 </li>
 <li>
-<a href="https://next-mycard.vercel.app" target="">My Card (digital business card generator)</a>
+<a href="https://next-mycard.vercel.app" target="">My Card (digital business cards)</a>
 </li>
-<li>
-<a href="https://countingcovid.netlify.app" target="">covidCOUNTER</a>
-</li>
-<li>
+
 <a href="https://jrh89.GitHub.io/FMDownloadPage" target="">GUI for Youtube-dl</a>
 </li>
 <li>
@@ -61,9 +55,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 </ul>
 <h3>Visit my Gumroad store:</h3>
 <ul>
-<li>
-<a href="https://jrh89.gumroad.com" target="">Hooker Hill Studios</a>
-</li>
+
 </ul>
 
 <h3>Play some of my browser games:</h3>
