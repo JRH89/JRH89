@@ -22,20 +22,25 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
 </li>
 </ul>
-<h3>Check out some of my websites and web apps:</h3>
+<h3>Featured Projects:</h3>
 <ul>
+ <li>
+
+<a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
+
+</li>
+ <li>
+
+<a href="https://next-mycard.vercel.app" target="">My Card (digital business cards)</a>
+
+</li>
 <li>
  <a href="https://next-jewelry.vercel.app" target="">Jewelry Store</a>
  </li>
-<li>
-<a href="https://nextjs-blog-jrh89.vercel.app/" target="">Blog</a>
-</li>
-<li>
-<a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
-</li>
-<li>
-<a href="https://next-mycard.vercel.app" target="">My Card (digital business cards)</a>
-</li>
+
+
+
+
 <li>
 <a href="https://jrh89.GitHub.io/FMDownloadPage" target="">GUI for Youtube-dl</a>
 </li>
@@ -55,7 +60,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 </ul>
 
 
-<h3>Play some of my browser games:</h3>
+<h3>You might as well play some of my browser games while you are here:</h3>
 <ul>
 <li>
 <a href="https://jaredsportfolio.netlify.app/runner.html" target="">STARRUNNER</a>
