@@ -25,22 +25,14 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <h3>Featured Projects:</h3>
 <ul>
  <li>
-
 <a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
-
 </li>
  <li>
-
 <a href="https://next-mycard.vercel.app" target="">My Card (digital business cards)</a>
-
 </li>
 <li>
  <a href="https://next-jewelry.vercel.app" target="">Jewelry Store</a>
  </li>
-
-
-
-
 <li>
 <a href="https://jrh89.GitHub.io/FMDownloadPage" target="">GUI for Youtube-dl</a>
 </li>
@@ -58,7 +50,6 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a>
 </li>
 </ul>
-
 
 <h3>You might as well play some of my browser games while you are here:</h3>
 <ul>
