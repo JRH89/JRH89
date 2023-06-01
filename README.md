@@ -28,7 +28,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
 </li>
  <li>
-<a href="https://next-mycard.vercel.app" target="">My Card (digital business cards)</a>
+<a href="https://next-mycard.vercel.app" target="">My Card (web version)</a>
 </li>
 <li>
  <a href="https://next-jewelry.vercel.app" target="">Jewelry Store</a>
