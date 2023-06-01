@@ -47,7 +47,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <h3>Try my Unity Game:</h3>
 <ul>
 <li>
-<a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a>(desktop only)
+<a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a> (desktop only)
 </li>
 </ul>
 
