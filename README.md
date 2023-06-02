@@ -3,10 +3,10 @@
 Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker">LinkedIn!</a>
 
 <p>I am a self-taught game and software developer.</p><p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
-<p>For software, my language of choice is JavaScript.<br> My current stack is React, Node, Nextjs, TailwindCSS, and Firebase (auth, db) deployed with Vercel.</p> 
- <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=unreal,unity,blender,github,vscode,netlify,nodejs,react,nextjs,tailwind,firebase,vercel&perline=6" />
- </a>
+<p>For software, my language of choice is JavaScript.<br> My current stack is React, Nextjs, TailwindCSS, and Firebase (auth, db) deployed with Vercel.</p> 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=unreal,unity,blender,github,vscode,netlify,nodejs,react,nextjs,tailwind,firebase,vercel&perline=6" />
+</a>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
@@ -43,7 +43,6 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://jrh89.github.io/WeatherReportSuite" target="">Weather Report Suite</a>
 </li>
 </ul>
-
 <h3>Try my Unity Game:</h3>
 <ul>
 <li>
@@ -51,15 +50,3 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 </li>
 </ul>
 
-<h3>You might as well play some of my browser games while you are here:</h3>
-<ul>
-<li>
-<a href="https://jaredsportfolio.netlify.app/runner.html" target="">STARRUNNER</a>
-</li>
-<li>
-<a href="https://jaredsportfolio.netlify.app/pong" target="">Handball</a>
-</li>
-<li>
-<a href="https://jaredsportfolio.netlify.app/shooter" target="">Arcade Shooting Gallery</a>
-</li>
-</ul>
