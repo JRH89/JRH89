@@ -10,7 +10,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
-<a href="https://play.google.com/store/apps/details?id=card.digitalbusinesscard" target="">Digital Business Card</a>
+<a href="https://play.google.com/store/apps/details?id=card.digitalbusinesscard" target="">My Card - Digital Business Cards</a>
 </li>
 <li>
 <a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="">STARRUNNER</a>
