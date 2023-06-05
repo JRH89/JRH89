@@ -25,7 +25,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <h3>Featured Projects:</h3>
 <ul>
  <li>
-<a href="https://jaredsportfolio.netlify.app" target="">PORTFOLIO</a>
+<a href="https://jareds-portfolio.vercel.app" target="">Project Portfolio</a>
 </li>
  <li>
 <a href="https://next-mycard.vercel.app" target="">My Card</a> (web version)
