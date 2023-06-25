@@ -16,10 +16,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="">STARRUNNER</a>
 </li>
 <li>
-<a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="">Weather Report Suite</a>
-</li>
-<li>
-<a href="https://play.google.com/store/apps/details?id=weather.yellowsky" target="">YellowSky Weather</a>
+<a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="">Weather Pal</a>
 </li>
 </ul>
 <h3>Featured Projects:</h3>
