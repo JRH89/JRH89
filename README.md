@@ -3,7 +3,7 @@
 Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker">LinkedIn!</a>
 
 <p>I am a self-taught game and software developer.</p><p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
-<p>For software, my languages of choice are JavaScript and Python.<br> My current stack is React, Next, Tailwind, and Firebase deployed with Vercel.</p> 
+<p>For software, my languages of choice are JavaScript and Python.<br> My current stack is React, Next.js, TailwindCSS, and Firebase deployed with Vercel.</p> 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=unreal,unity,blender,github,vscode,netlify,nodejs,react,nextjs,tailwind,firebase,vercel&perline=6" />
 </a>
@@ -28,10 +28,10 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://next-mycard.vercel.app" target="">My Card</a> (web version)
 </li>
 <li>
- <a href="https://next-jewelry.vercel.app" target="">Jewelry Store</a>
+ <a href="https://next-jewelry.vercel.app" target="">Jewelry & Gems</a>
  </li>
 <li>
-<a href="https://jrh89.GitHub.io/FMDownloadPage" target="">GUI for Youtube-dl</a>
+<a href="https://jrh89.GitHub.io/FMDownloadPage" target="">Python GUI for youtube-dl</a>
 </li>
 <li>
 <a href="https://jrh89.github.io/SHDownloadPage/" target="">Sorting Hat</a>
