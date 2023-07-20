@@ -5,7 +5,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
 <p>For software, my languages of choice are JavaScript and Python.<br> My current stack is React, Next.js, and Firebase deployed with Vercel.</p> 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=unreal,unity,blender,netlify,nodejs,react,nextjs,tailwind,firebase,vercel,androidstudio,java&perline=5" />
+<img src="https://skillicons.dev/icons?i=unreal,unity,blender,netlify,nodejs,react,nextjs,tailwind,firebase,vercel,androidstudio,java&perline=6" />
 </a>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
