@@ -10,6 +10,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <h3>NPM packages:</h3>
 <ul>
  <li><a href="https://www.npmjs.com/package/ui-hook-react-lib">ui-hook-react-lib</a></li>
+ <li><a href="https://www.npmjs.com/package/@gamedevjared89/progressbar-react">@gamedevjared89/progressbar-react</li>
 </ul>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
