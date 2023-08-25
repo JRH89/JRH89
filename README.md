@@ -38,9 +38,7 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <li>
 <a href="https://jrh89.GitHub.io/FMDownloadPage" target="">Python GUI for youtube-dl</a>
 </li>
-<li>
-<a href="https://jrh89.github.io/SHDownloadPage/" target="">Sorting Hat</a>
-</li>
+
 </ul>
 <h3>Try my Unity Game:</h3>
 <ul>
