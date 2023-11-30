@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Welcome To My Github!</h2>
 
-Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker">LinkedIn!</a>
-
+<p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="">LinkedIn</a>!</p>
+<p>Company Site: <a href="https://www.hookerhillstudios.com" target="">Hooker Hill Studios</a></p>
 <p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
 <p>For software, my languages of choice are JavaScript and Java.<br> My current stack for web development is React, Next.js, and Firebase deployed with Vercel. My current mobile development stack consists of Java, Firebase, and Android Studio.</p> 
 <a href="https://skillicons.dev">
@@ -9,8 +9,15 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 </a>
 <h3>NPM packages:</h3>
 <ul>
- <li><a href="https://www.npmjs.com/package/ui-hook-react-lib">ui-hook-react-lib</a></li>
- <li><a href="https://www.npmjs.com/package/@gamedevjared89/progressbar-react">@gamedevjared89/progressbar-react</li>
+ <li>
+  <a href="https://www.npmjs.com/package/ui-hook-react-lib">
+   ui-hook-react-lib
+  </a>
+ </li>
+ <li>
+  <a href="https://www.npmjs.com/package/@gamedevjared89/progressbar-react">
+   @gamedevjared89/progressbar-react
+  </li>
 </ul>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
@@ -38,7 +45,9 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <li>
 <a href="https://jrh89.GitHub.io/FMDownloadPage" target="">Python GUI for youtube-dl</a>
 </li>
-
+<li>
+<a href="https://time-tracker-plus.vercel.app" target="">Time Tracker</a>
+</li>
 </ul>
 <h3>Try my Unity Game:</h3>
 <ul>
@@ -46,4 +55,3 @@ Follow me on <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=
 <a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a> (desktop only)
 </li>
 </ul>
-
