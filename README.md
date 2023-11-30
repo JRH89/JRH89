@@ -3,7 +3,7 @@
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="">LinkedIn</a>!</p>
 <p>Company Site: <a href="https://www.hookerhillstudios.com" target="">Hooker Hill Studios</a></p>
 <p>My main tools for game development are Unreal Engine 5, Blender, and C++ although I also have experience with using C# and Unity, as well as creating web browser games with JavaScript.</p>
-<p>For software, my languages of choice are JavaScript and Java.<br> My current stack for web development is React, Next.js, and Firebase deployed with Vercel. My current mobile development stack consists of Java, Firebase, and Android Studio.</p> 
+<p>For software, my languages of choice are JavaScript and Java.<br> My current stack for web development is React, Next.js, tailwindcss, and Firebase deployed with Vercel. My current mobile development stack consists of Java, Firebase, and Android Studio.</p> 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=unreal,unity,blender,netlify,nodejs,react,nextjs,tailwind,firebase,vercel,androidstudio,java&perline=6" />
 </a>
