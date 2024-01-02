@@ -1,4 +1,5 @@
 <h1 style="text-align: center">Welcome To My Github!</h2>
+      <a href="https://www.producthunt.com/posts/resolved?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-resolved" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=431909&theme=dark" alt="Resolved - Track&#0032;and&#0032;manage&#0032;support&#0032;tickets&#0044;&#0032;chat&#0032;with&#0032;customers | Product Hunt" className='w-full h-full mx-auto flex mt-4' /></a>
 
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="">LinkedIn</a>!</p>
 <p>Company Site: <a href="https://www.hookerhillstudios.com" target="">Hooker Hill Studios</a></p>
