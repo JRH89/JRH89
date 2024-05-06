@@ -1,5 +1,7 @@
 <h1 style="text-align: center">Welcome To My Github!</h2>
-   <a href="https://www.producthunt.com/posts/barberjet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-barberjet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=455187&theme=dark" alt="BarberJet - scheduling&#0044;&#0032;booking&#0044;&#0032;barbers&#0044;&#0032;appointments | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+ 
+<p>BarberJet on Product Hunt:</p>
+<a href="https://www.producthunt.com/posts/barberjet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-barberjet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=455187&theme=dark" alt="BarberJet - scheduling&#0044;&#0032;booking&#0044;&#0032;barbers&#0044;&#0032;appointments | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="">LinkedIn</a>!</p>
 <p>Company Site: <a href="https://www.hookerhillstudios.com" target="">Hooker Hill Studios</a></p>
