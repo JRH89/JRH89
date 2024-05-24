@@ -10,23 +10,14 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=unreal,unity,blender,netlify,nodejs,react,nextjs,tailwind,firebase,vercel,androidstudio,java&perline=6" />
 </a>
-<h3>NPM packages:</h3>
-<ul>
- <li>
-  <a href="https://www.npmjs.com/package/ui-hook-react-lib">
-   ui-hook-react-lib
-  </a>
- </li>
- <li>
-  <a href="https://www.npmjs.com/package/@gamedevjared89/progressbar-react">
-   @gamedevjared89/progressbar-react
-  </li>
-</ul>
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
 <a href="https://play.google.com/store/apps/details?id=mycard.mycard" target="">My Card - Digital Business Cards</a>
 </li>
+ <li>
+ <a href="https://play.google.com/store/apps/details?id=com.barberjet" target="">BarberJet</a>
+ </li>
 <li>
 <a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="">STARRUNNER</a>
 </li>
