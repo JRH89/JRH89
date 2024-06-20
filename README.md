@@ -8,10 +8,10 @@ Read my <a href="https://blog.hookerhillstudios.com" target="">blog</a>
 <img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" />
 </a>.</p>
 <p>For software, my languages of choice are <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" />
-</a>.<br> My current stack for web development is <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" /></a></p>
+</a>.<p> My current stack for web development is <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=4" />
-</a>. My current mobile development stack consists of <a href="https://skillicons.dev">
+</a>.</p><p>My current mobile development stack consists of <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" />
 </a>.</p> 
 
