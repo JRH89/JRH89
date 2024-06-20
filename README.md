@@ -4,11 +4,17 @@ Read my <a href="https://blog.hookerhillstudios.com" target="">blog</a>
  
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="">LinkedIn</a>!</p>
 <p>Company Site: <a href="https://www.hookerhillstudios.com" target="">Hooker Hill Studios</a></p>
-<p>My main tools for game development are Unreal Engine 5 and Blender.</p>
-<p>For software, my languages of choice are JavaScript, Java, and Python.<br> My current stack for web development is React, Next.js, tailwindcss, and Firebase deployed with Vercel. My current mobile development stack consists of Java, Firebase, and Android Studio.</p> 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=unreal,unity,blender,netlify,nodejs,react,nextjs,tailwind,firebase,vercel,androidstudio,java&perline=6" />
-</a>
+<p>My main tools for game development are <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" />
+</a>.</p>
+<p>For software, my languages of choice are <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" />
+</a>.<br> My current stack for web development is <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=4" />
+</a>. My current mobile development stack consists of <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" />
+</a>.</p> 
+
 <h3>Apps on the Google Play Store:</h3>
 <ul>
 <li>
