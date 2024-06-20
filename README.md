@@ -1,60 +1,49 @@
-<h1 style="text-align: center">Welcome To My Github!</h2>
-
-Read my <a href="https://blog.hookerhillstudios.com" target="">blog</a>
- 
-<p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="">LinkedIn</a>!</p>
-<p>Company Site: <a href="https://www.hookerhillstudios.com" target="">Hooker Hill Studios</a></p>
-<p>My main tools for game development are <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" />
-</a>.</p>
-<p>For software, my languages of choice are <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" /></a></p>
-</a>.<p> My current stack for web development is <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=4" />
-</a>.</p><p>My current mobile development stack consists of <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" />
-</a>.</p> 
-
-<h3>Apps on the Google Play Store:</h3>
+<h1 style="text-align: center;">Welcome To My GitHub!</h1>
+<p>Check out my <a href="https://blog.hookerhillstudios.com" target="_blank">blog</a> for updates and insights.</p>
+<p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="_blank">LinkedIn</a>!</p>
+<p>Company Site: <a href="https://www.hookerhillstudios.com" target="_blank">Hooker Hill Studios</a></p>
+<h2>My Tools and Technologies</h2>
+<p><strong>Game Development:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" alt="Unreal and Blender icons" />
+  </a>
+</p>
+<p><strong>Software Development:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
+  </a>
+</p>
+<p><strong>Web Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=4" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
+  </a>
+</p>
+<p><strong>Mobile Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
+  </a>
+</p>
+<h2>Apps on the Google Play Store</h2>
 <ul>
-<li>
-<a href="https://play.google.com/store/apps/details?id=mycard.mycard" target="">My Card - Digital Business Cards</a>
-</li>
- <li>
- <a href="https://play.google.com/store/apps/details?id=com.barberjet" target="">BarberJet</a>
- </li>
-<li>
-<a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="">STARRUNNER</a>
-</li>
-<li>
-<a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="">Weather Pal</a>
-</li>
+  <li><a href="https://play.google.com/store/apps/details?id=mycard.mycard" target="_blank">My Card - Digital Business Cards</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.barberjet" target="_blank">BarberJet</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="_blank">STARRUNNER</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="_blank">Weather Pal</a></li>
 </ul>
-<h3>Featured Projects:</h3>
+<h2>Featured Projects</h2>
 <ul>
- <li>
-<a href="https://jaredsportfolio.netlify.app" target="">Project Portfolio</a>
-</li>
-<li>
- <a href="https://barberjet.vercel.app" target="">BarberJet</a>
- </li>
- <li>
- <a href="https://resolved.hookerhillstudios.com" target="">Resolved</a>
- </li>
- <li>
-<a href="https://next-mycard.vercel.app" target="">My Card</a> (web version)
-</li>
-<li>
- <a href="https://next-jewelry.vercel.app" target="">Jewelry & Gems</a>
- </li>
-
-<li>
-<a href="https://time-tracker-plus.vercel.app" target="">Time Tracker</a>
-</li>
+  <li><a href="https://jaredsportfolio.netlify.app" target="_blank">Project Portfolio</a></li>
+  <li><a href="https://barberjet.vercel.app" target="_blank">BarberJet</a></li>
+  <li><a href="https://resolved.hookerhillstudios.com" target="_blank">Resolved</a></li>
+  <li><a href="https://next-mycard.vercel.app" target="_blank">My Card (web version)</a></li>
+  <li><a href="https://next-jewelry.vercel.app" target="_blank">Jewelry & Gems</a></li>
+  <li><a href="https://time-tracker-plus.vercel.app" target="_blank">Time Tracker</a></li>
 </ul>
-<h3>Try my Unity Game:</h3>
+<h2>Try my Unity Game</h2>
 <ul>
-<li>
-<a href="https://jrh89.itch.io/the-knight-life" target="">The Knight Life</a> (desktop only)
-</li>
+  <li><a href="https://jrh89.itch.io/the-knight-life" target="_blank">The Knight Life</a> (desktop only)</li>
 </ul>
