@@ -18,7 +18,7 @@
 <p><strong>Web Development Stack:</strong></p>
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=4" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
   </a>
 </p>
 <p><strong>Mobile Development Stack:</strong></p>
