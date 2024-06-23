@@ -15,16 +15,16 @@
     <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
   </a>
 </p>
-<p><strong>Web Development Stack:</strong></p>
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
-  </a>
-</p>
 <p><strong>Mobile Development Stack:</strong></p>
 <p>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
+  </a>
+</p>
+<p><strong>Web Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
   </a>
 </p>
 <h2>Apps on the Google Play Store</h2>
