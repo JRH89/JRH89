@@ -2,6 +2,14 @@
 <p>Read my <a href="https://blog.hookerhillstudios.com" target="_blank">blog</a> for tutorials and insights</p>
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="_blank">LinkedIn</a></p>
 <p>Check out my <a href="https://jaredsportfolio.netlify.app" target="_blank">portfolio</a></p>
+ </a>
+            <a 
+            title="youtube"
+            rel="noopener" 
+            href="https://youtube.com/@hookerhillsudios" 
+            target="_blank">
+              <i class="fa fa-youtube fa-inverse"></i>
+            </a>
 <h2>My Tools and Technologies</h2>
 <p><strong>Game Development:</strong></p>
 <p>
