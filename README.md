@@ -9,9 +9,8 @@
             rel="noopener" 
             href="https://youtube.com/@hookerhillstudios" 
             target="_blank">
-              Youtube
+              Youtube Channel
             </a> 
- channel
  </p>
            
 <h2>My Tools and Technologies</h2>
