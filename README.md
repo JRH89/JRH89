@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Welcome To My GitHub!</h1>
-<p>Read my <a href="https://blog.hookerhillstudios.com" target="_blank">blog</a> for tutorials and insights</p>
+<p>Read my <a href="https://blog.hookerhillstudios.com" target="_blank">Blog</a> for tutorials and insights</p>
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="_blank">LinkedIn</a></p>
-<p>Check out my <a href="https://jaredsportfolio.netlify.app" target="_blank">portfolio</a></p>
+<p>Check out my <a href="https://jaredsportfolio.netlify.app" target="_blank">Portfolio</a></p>
  </a>
  <p>
   Subscribe to my  <a 
