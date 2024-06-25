@@ -7,7 +7,7 @@
   Subscribe to my  <a 
             title="youtube"
             rel="noopener" 
-            href="https://youtube.com/@hookerhillsudios" 
+            href="https://youtube.com/@hookerhillstudios" 
             target="_blank">
               Youtube
             </a> 
