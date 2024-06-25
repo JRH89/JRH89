@@ -3,13 +3,17 @@
 <p>Follow me on <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaredhooker" target="_blank">LinkedIn</a></p>
 <p>Check out my <a href="https://jaredsportfolio.netlify.app" target="_blank">portfolio</a></p>
  </a>
-            <a 
+ <p>
+  Subscribe to my  <a 
             title="youtube"
             rel="noopener" 
             href="https://youtube.com/@hookerhillsudios" 
             target="_blank">
-              <i class="fa fa-youtube fa-inverse"></i>
-            </a>
+              Youtube
+            </a> 
+ channel
+ </p>
+           
 <h2>My Tools and Technologies</h2>
 <p><strong>Game Development:</strong></p>
 <p>
