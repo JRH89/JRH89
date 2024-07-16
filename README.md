@@ -13,7 +13,7 @@
             </a> 
  </p>
 
- Recent Project:
+ Visit My Latest Project
  <a href="https://kwbuildersland.com">KW Builders Land</a>
            
 <h2>My Tools and Technologies</h2>
