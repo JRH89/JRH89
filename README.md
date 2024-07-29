@@ -64,3 +64,8 @@
 <ul>
   <li><a href="https://jrh89.itch.io/the-knight-life" target="_blank">The Knight Life</a> (desktop only)</li>
 </ul>
+
+Find my profile useful? Consider donating:
+
+- Cashapp: $hookerhillstudios
+- Paypal: https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL
