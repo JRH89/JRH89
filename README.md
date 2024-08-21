@@ -62,11 +62,6 @@
 <p align="center">
   If you find my work useful, consider supporting me:
 </p>
-<p align="center">
-  <a href="https://cash.app/$hookerhillstudios" target="_blank">
-    <img src="https://img.shields.io/badge/Cashapp-$hookerhillstudios-00C244?style=for-the-badge&logo=cash-app&logoColor=white" alt="Cashapp" />
-  </a>
-  <a href="https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL" target="_blank">
-    <img src="https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />
-  </a>
-</p>
+- Cashapp: $hookerhillstudios
+- Paypal: https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL
+
