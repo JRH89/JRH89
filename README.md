@@ -7,8 +7,6 @@
   <a href="https://youtube.com/@hookerhillstudios" title="YouTube" rel="noopener" target="_blank"><strong>🎥 Subscribe on YouTube</strong></a>
 </p>
 
----
-
 <h2 align="center">🛠 My Tools & Technologies</h2>
 
 <p><strong>Game Development:</strong></p>
