@@ -11,63 +11,30 @@
 
 <h2 align="center">🛠 My Tools & Technologies</h2>
 
-<p align="center">
-  <strong>Game Development:</strong>
-</p>
-<p align="center">
-  <a href="https://www.unrealengine.com" target="_blank">
-    <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
-  </a>
-  <a href="https://www.blender.org" target="_blank">
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+<p><strong>Game Development:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" alt="Unreal and Blender icons" />
   </a>
 </p>
-
-<p align="center">
-  <strong>Software Development:</strong>
-</p>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p><strong>Software Development:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
   </a>
 </p>
-
-<p align="center">
-  <strong>Mobile Development Stack:</strong>
-</p>
-<p align="center">
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  </a>
-  <a href="https://firebase.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<p><strong>Mobile Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
   </a>
 </p>
-
-<p align="center">
-  <strong>Web Development Stack:</strong>
-</p>
-<p align="center">
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<p><strong>Web Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
   </a>
 </p>
-
 ---
 
 <h2 align="center">📱 Apps on the Google Play Store</h2>
