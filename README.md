@@ -9,36 +9,36 @@
 
 <h2 align="center">🛠 My Tools & Technologies</h2>
 
-<p align="center"><strong>Game Development:</strong></p>
-<p align="center">
+<p><strong>Game Development:</strong></p>
+<p>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" alt="Unreal and Blender icons" />
   </a>
 </p>
 
-<p align="center"><strong>Software Development:</strong></p>
-<p align="center">
+<p><strong>Software Development:</strong></p>
+<p>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
   </a>
 </p>
 
-<p align="center"><strong>Mobile Development Stack:</strong></p>
-<p align="center">
+<p><strong>Mobile Development Stack:</strong></p>
+<p>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
   </a>
 </p>
 
-<p align="center"><strong>Web Development Stack:</strong></p>
-<p align="center">
+<p><strong>Web Development Stack:</strong></p>
+<p>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
   </a>
 </p>
 
 <h2 align="center">📱 Apps on the Google Play Store</h2>
-<ul align="center">
+<ul>
   <li><a href="https://play.google.com/store/apps/details?id=mycard.mycard" target="_blank">My Card - Digital Business Cards</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.barberjet" target="_blank">BarberJet</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="_blank">STARRUNNER</a></li>
@@ -46,7 +46,7 @@
 </ul>
 
 <h2 align="center">💼 Featured Projects</h2>
-<ul align="center">
+<ul>
   <li><a href="https://jaredsportfolio.netlify.app" target="_blank">Project Portfolio</a></li>
   <li><a href="https://review-vault.vercel.app" target="_blank">Review Vault</a></li>
   <li><a href="https://barberjet.vercel.app" target="_blank">BarberJet</a></li>
@@ -57,16 +57,16 @@
 </ul>
 
 <h2 align="center">🎮 Try My Unity Game</h2>
-<ul align="center">
+<ul>
   <li><a href="https://jrh89.itch.io/the-knight-life" target="_blank">The Knight Life</a> (desktop only)</li>
 </ul>
 
 <h2 align="center">💸 Support My Work</h2>
-<p align="center">
+<p>
   If you find my work useful, consider supporting me:
 </p>
 
-<p align="center">
+<p>
   <strong>Cashapp:</strong> $hookerhillstudios<br>
   <strong>Paypal:</strong> <a href="https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL" target="_blank">https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL</a>
 </p>
