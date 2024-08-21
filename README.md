@@ -58,7 +58,7 @@
   <li><a href="https://jrh89.itch.io/the-knight-life" target="_blank">The Knight Life</a> (desktop only)</li>
 </ul>
 
-<h1 align="center">💸 Support My Work</h1>
+<h2 align="center">💸 Support My Work</h1>
 <p align="center">
   If you find my work useful, consider supporting me:
 </p>
