@@ -13,7 +13,7 @@
             </a> 
  </p>
 
- <p>Visit My Latest Project:</p> <a href="https://review-vault.vercel.app">Review Vault</a>
+ <p>Visit My Latest Project: <a href="https://review-vault.vercel.app">Review Vault</a></p>
 
  Skip Ads on YouTube
  <a href="https://github.com/JRH89/youtube-ad-skipper">YouTube Ad Skipper</a>
