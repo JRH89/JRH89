@@ -13,9 +13,7 @@
             </a> 
  </p>
 
- <p>Visit My Latest Project:</p>
- <p>Collect Reviews and Capture Leads From Your Website With Just Two Lines of Code With</p>
- <p><a href="https://review-vault.vercel.app">Review Vault</a></p>
+ <p>Visit My Latest Project:</p> <a href="https://review-vault.vercel.app">Review Vault</a>
 
  Skip Ads on YouTube
  <a href="https://github.com/JRH89/youtube-ad-skipper">YouTube Ad Skipper</a>
