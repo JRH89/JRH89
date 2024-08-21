@@ -33,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
   </a>
 </p>
----
 
 <h2 align="center">📱 Apps on the Google Play Store</h2>
 <ul>
@@ -42,8 +41,6 @@
   <li><a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="_blank">STARRUNNER</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="_blank">Weather Pal</a></li>
 </ul>
-
----
 
 <h2 align="center">💼 Featured Projects</h2>
 <ul>
@@ -56,14 +53,10 @@
   <li><a href="https://time-tracker-plus.vercel.app" target="_blank">Time Tracker</a></li>
 </ul>
 
----
-
 <h2 align="center">🎮 Try My Unity Game</h2>
 <ul>
   <li><a href="https://jrh89.itch.io/the-knight-life" target="_blank">The Knight Life</a> (desktop only)</li>
 </ul>
-
----
 
 <h1 align="center">💸 Support My Work</h1>
 <p align="center">
