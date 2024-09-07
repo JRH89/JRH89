@@ -48,6 +48,7 @@
 <h2 align="center">💼 Featured Projects</h2>
 <ul>
   <li><a href="https://jaredsportfolio.netlify.app" target="_blank">Project Portfolio</a></li>
+   <li><a href="https://saasavant-saas-boilerplate.hookerhillstudios.com" target="_blank">SaaSavant - SaaS Boilerplate</a></li>
   <li><a href="https://review-vault.vercel.app" target="_blank">Review Vault</a></li>
   <li><a href="https://barberjet.vercel.app" target="_blank">BarberJet</a></li>
   <li><a href="https://resolved.hookerhillstudios.com" target="_blank">Resolved</a></li>
