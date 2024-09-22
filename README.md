@@ -52,7 +52,7 @@
   <li><a href="https://review-vault.vercel.app" target="_blank">Review Vault</a></li>
   <li><a href="https://barberjet.vercel.app" target="_blank">BarberJet</a></li>
   <li><a href="https://resolved.hookerhillstudios.com" target="_blank">Resolved</a></li>
-  <li><a href="https://next-mycard.vercel.app" target="_blank">My Card (web version)</a></li>
+  <li><a href="https://about-mycard.vercel.app" target="_blank">My Card (web version)</a></li>
   <li><a href="https://next-jewelry.vercel.app" target="_blank">Jewelry & Gems</a></li>
   <li><a href="https://time-tracker-plus.vercel.app" target="_blank">Time Tracker</a></li>
 </ul>
