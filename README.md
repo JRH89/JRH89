@@ -58,7 +58,7 @@
     <li><a href="https://kwbuildersland.com" target="_blank">KW Builders Land</a></li>
 </ul>
 
-<h2>Top Blog Articles:</h2>
+<h2 align="center">Top Blog Articles:</h2>
 <ul>
   <li><a href="https://www.hookerhillstudios.com/blogs/creating-a-gui-application-to-download-media-from-youtube-for-free" target="_blank">yt-dlp GUI</a></li>
     <li><a href="https://www.hookerhillstudios.com/blogs/where-to-launch-and-market-saas-products" target="_blank">Top 5 Places to Launch or Market a SaaS</a></li>
