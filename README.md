@@ -30,7 +30,7 @@
 
 <h2 align="center">Top Blog Articles:</h2>
 <ul>
-  <li><a href="https://www.hookerhillstudios.com/blogs/creating-a-gui-application-to-download-media-from-youtube-for-free" target="_blank">yt-dlp GUI</a></li>
+  <li><a href="https://www.hookerhillstudios.com/blogs/how-to-make-a-gui-for-yt-dlp" target="_blank">How To Make a GUI for yt-dlp</a></li>
     <li><a href="https://www.hookerhillstudios.com/blogs/where-to-launch-and-market-saas-products" target="_blank">Top 5 Places to Launch or Market a SaaS</a></li>
      <li><a href="https://www.hookerhillstudios.com/blogs/exploring-image-compression-with-python" target="_blank">Recursive Image Compression With Python</a></li>
 </ul>
