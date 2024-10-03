@@ -7,36 +7,6 @@
   <a href="https://youtube.com/@hookerhillstudios" title="YouTube" rel="noopener" target="_blank"><strong>🎥 Subscribe on YouTube</strong></a>
 </p>
 
-<h2 align="center">🛠 My Tools & Technologies</h2>
-
-<p><strong>Game Development:</strong></p>
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" alt="Unreal and Blender icons" />
-  </a>
-</p>
-
-<p><strong>Software Development:</strong></p>
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
-  </a>
-</p>
-
-<p><strong>Mobile Development Stack:</strong></p>
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
-  </a>
-</p>
-
-<p><strong>Web Development Stack:</strong></p>
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
-  </a>
-</p>
-
 <h2 align="center">📱 Apps on the Google Play Store</h2>
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=mycard.mycard" target="_blank">My Card - Digital Business Cards</a></li>
@@ -69,12 +39,32 @@
   <li><a href="https://jrh89.itch.io/the-knight-life" target="_blank">The Knight Life</a> (desktop only)</li>
 </ul>
 
-<h2 align="center">💸 Support My Work</h2>
+<h2 align="center">🛠 My Tools & Technologies</h2>
+
+<p><strong>Game Development:</strong></p>
 <p>
-  If you find my work useful, consider supporting me:
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unreal,blender&perline=2" alt="Unreal and Blender icons" />
+  </a>
 </p>
 
+<p><strong>Software Development:</strong></p>
 <p>
-  <strong>Cashapp:</strong> $hookerhillstudios<br>
-  <strong>Paypal:</strong> <a href="https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL" target="_blank">https://www.paypal.com/ncp/payment/KUWG9HFVBYWHL</a>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
+  </a>
+</p>
+
+<p><strong>Mobile Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
+  </a>
+</p>
+
+<p><strong>Web Development Stack:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
+  </a>
 </p>
