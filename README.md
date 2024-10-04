@@ -17,6 +17,7 @@
 
 <h2 align="center">💼 Featured Projects</h2>
 <ul>
+    <li><a href="https://backlink-blog.vercel.app" target="_blank">Backlink Blog</a></li>
   <li><a href="https://jaredsportfolio.netlify.app" target="_blank">Project Portfolio</a></li>
    <li><a href="https://saasavant-saas-boilerplate.hookerhillstudios.com" target="_blank">SaaSavant - SaaS Boilerplate</a></li>
   <li><a href="https://review-vault.vercel.app" target="_blank">Review Vault</a></li>
