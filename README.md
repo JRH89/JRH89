@@ -10,7 +10,6 @@
 <h2 align="center">📱 Apps on the Google Play Store</h2>
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=mycard.mycard" target="_blank">My Card - Digital Business Cards</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.barberjet" target="_blank">BarberJet</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=runner.starrunner" target="_blank">STARRUNNER</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=weatherreport.suite" target="_blank">Weather Pal</a></li>
 </ul>
