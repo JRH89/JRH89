@@ -53,7 +53,7 @@
 <p><strong>Software Development:</strong></p>
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,java,python&perline=3" alt="JavaScript, Java, and Python icons" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,ruby&perline=3" alt="JavaScript, Java, and Python icons" />
   </a>
 </p>
 
