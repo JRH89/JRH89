@@ -50,12 +50,7 @@
   </a>
 </p>
 
-<p><strong>Software Development:</strong></p>
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,java,python,ruby&perline=5" alt="JavaScript, Java, and Python icons" />
-  </a>
-</p>
+
 
 <p><strong>Mobile Development Stack:</strong></p>
 <p>
@@ -63,7 +58,12 @@
     <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3" alt="Java, Android Studio, and Firebase icons" />
   </a>
 </p>
-
+<p><strong>Software Development:</strong></p>
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,ruby&perline=5" alt="JavaScript, Java, and Python icons" />
+  </a>
+</p>
 <p><strong>Web Development Stack:</strong></p>
 <p>
   <a href="https://skillicons.dev" target="_blank">
