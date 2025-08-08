@@ -53,7 +53,7 @@
 <p><strong>Software Development:</strong></p>
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,java,python,ruby&perline=3" alt="JavaScript, Java, and Python icons" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,ruby&perline=5" alt="JavaScript, Java, and Python icons" />
   </a>
 </p>
 
@@ -67,6 +67,6 @@
 <p><strong>Web Development Stack:</strong></p>
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel,ruby,rails&perline=5" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,firebase,vercel,ruby,rails&perline=7" alt="React, Next.js, Tailwind, Firebase, and Vercel icons" />
   </a>
 </p>
