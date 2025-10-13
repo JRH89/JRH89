@@ -29,13 +29,7 @@ CI/CD Pipelines · Docker · Railway · Firebase Hosting · Netlify · Vercel
 PostgreSQL · Firestore · Redis  
 
 **Cloud & Infrastructure**  
-Firebase · Heroku · Supabase · Cloudflare  
-
-**Security**  
-Authentication · Authorization · RBAC · XSS/CSRF Mitigation  
-
-**Testing & QA**  
-RSpec · Jest · Cypress  
+Firebase · Railway · Supabase · Vercel  
 
 **Other Tools**  
 Git · GitHub Actions · REST APIs · JSON · Markdown  
