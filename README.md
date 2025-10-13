@@ -81,4 +81,18 @@ Git · GitHub Actions · REST APIs · JSON · Markdown
 <h2 align="center">Featured Projects</h2>
 
 <ul>
-  <li><a href="https://cre
+  <li><a href="https://credence.hookerhillstudios.com" target="_blank"><strong>Credence</strong> — Professional Networking & Job Platform</a></li>
+  <li><a href="https://momentum.hookerhillstudios.com" target="_blank"><strong>Momentum</strong> — Project Management & Invoicing Suite</a></li>
+  <li><a href="https://www.hookerhillstudios.com/free-tools/image-compressor" target="_blank"><strong>Free Image Compressor</strong> — Fast, Secure, and Reliable</a></li>
+  <li><a href="https://review-vault.vercel.app" target="_blank"><strong>Review Vault</strong> — Manage and Track Product Feedback</a></li>
+</ul>
+
+---
+
+<h3 align="center">“Proof of work. Bring something to the table. Nothing else matters.”</h3>
+
+<p align="center">
+  <a href="https://github.com/jaredhooker">
+    <img src="https://komarev.com/ghpvc/?username=jaredhooker&style=flat-square&color=0e75b6" alt="Profile views"/>
+  </a>
+</p>
