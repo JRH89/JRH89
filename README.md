@@ -39,8 +39,8 @@ Git · GitHub Actions · REST APIs · JSON · Markdown
 ### Capabilities
 - Architecting scalable, production-ready systems from the ground up  
 - Optimizing performance and accessibility for responsive, modern web applications  
-- Building secure, real-time systems using Firebase, WebSockets, and background jobs  
-- Deep experience with Rails monoliths, API-only apps, and headless frontends  
+- Building secure, real-time systems using WebSockets and background jobs  
+- Experience with Rails monoliths, API-only apps, and headless frontends  
 - Improving developer productivity with automation, CI/CD, and structured workflows  
 
 ---
