@@ -90,9 +90,3 @@ Git · GitHub Actions · REST APIs · JSON · Markdown
 ---
 
 <h3 align="center">“Proof of work. Bring something to the table. Nothing else matters.”</h3>
-
-<p align="center">
-  <a href="https://github.com/jaredhooker">
-    <img src="https://komarev.com/ghpvc/?username=jaredhooker&style=flat-square&color=0e75b6" alt="Profile views"/>
-  </a>
-</p>
