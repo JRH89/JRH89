@@ -76,6 +76,7 @@ Git · GitHub Actions · REST APIs · JSON · Markdown
 
 <ul>
   <li><a href="https://credence.hookerhillstudios.com" target="_blank"><strong>Credence</strong> — Professional Networking & Job Platform</a></li>
+  <li><a href="https://saasavant-saas-boilerplate.hookerhillstudios.com" target="_blank"><strong>SaaSavan</strong>t - SaaS Boilerplate</a></li>
   <li><a href="https://momentum.hookerhillstudios.com" target="_blank"><strong>Momentum</strong> — Project Management & Invoicing Suite</a></li>
   <li><a href="https://www.hookerhillstudios.com/free-tools/image-compressor" target="_blank"><strong>Free Image Compressor</strong> — Fast, Secure, and Reliable</a></li>
   <li><a href="https://review-vault.vercel.app" target="_blank"><strong>Review Vault</strong> — Manage and Track Product Feedback</a></li>
