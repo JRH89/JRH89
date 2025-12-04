@@ -40,7 +40,7 @@ Driven by craftsmanship, pragmatism, and a belief in proof-of-work.
 
 <ul>
    <li><a href="https://space-game.hookerhillstudios.com" target="_blank"><strong>Space Game</strong> - 3D Space Shooter Game</a></li>
-  <li><a href="https://credence.hookerhillstudios.com" target="_blank"><strong>Credence</strong> - Professional Networking & Job Platform</a></li>
+  <li><a href="https://credence-chuh.onrender.com/" target="_blank"><strong>Credence</strong> - Professional Networking & Job Platform</a></li>
   <li><a href="https://techub.life" target="_blank"><strong>Techub</strong> — Digital Trading Cards Based on Github Profiles</a></li>
   <li><a href="https://battles.techub.life" target="_blank"><strong>Techub Battles</strong> - Simulated Battles Between Techub Cards</a></li>
   <li><a href="https://saasavant-saas-boilerplate.hookerhillstudios.com" target="_blank"><strong>SaaSavan</strong>t - SaaS Boilerplate</a></li>
