@@ -29,7 +29,7 @@ Driven by craftsmanship, pragmatism, and a belief in proof-of-work.
 <h2 align="center">Featured Projects</h2>
 
 <ul>
-  <li><a href="https://space-game.hookerhillstudios.com" target="_blank"><strong>core.js</strong> - HTML first javascript framework</a></li>
+  <li><a href="https://core.sbs" target="_blank"><strong>core.js</strong> - HTML first javascript framework</a></li>
   <li><a href="https://github.com/jrh89/vimlantis" target="_blank"><strong>Vimlantis</strong> - neovim plugin</a></li>
   <li><a href="https://space-game.hookerhillstudios.com" target="_blank"><strong>Space Game</strong> - 3D Space Shooter Game</a></li>
   <li><a href="https://credence.hookerhillstudios.com/" target="_blank"><strong>Credence</strong> - Professional Networking & Job Platform</a></li>
