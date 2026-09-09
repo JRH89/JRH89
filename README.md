@@ -31,7 +31,7 @@ Built an agent runtime that works across desktop, VS Code, CLI/TUI, and Neovim i
 
 ---
 
-### 📄 Rezzie(https://rezzie.org)
+### 📄 [Rezzie](https://rezzie.org)
 
 **AI-powered resume tailoring platform**
 
