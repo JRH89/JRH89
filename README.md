@@ -82,6 +82,5 @@ I'm particularly interested in the intersection of **software engineering and AI
 
 - 🌐 **Portfolio:** https://portfolio.hookerhillstudios.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/jaredhooker
-- 🧑‍💻 **GitHub:** https://github.com/JRH89
 
 Currently open to **Full-Stack Software Engineer** and **AI Engineer** opportunities.
