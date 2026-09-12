@@ -58,16 +58,6 @@ Built and operate a production SaaS for discovering, processing, and managing bu
 
 ---
 
-### 🌐 [Credence](https://credence.hookerhillstudios.com/)
-
-**Professional networking and job platform built around proof of work**
-
-A full-stack platform for professional profiles, verified jobs, communities, messaging, and developer-focused content.
-
-Built with **Ruby on Rails, PostgreSQL, background jobs, real-time features, and containerized infrastructure.**
-
----
-
 ## How I Work
 
 I like owning problems end to end.
