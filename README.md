@@ -8,15 +8,30 @@ My recent work focuses on **agentic AI, local LLMs, developer tooling, and produ
 
 ### Tech
 
-- **Languages:** TypeScript • JavaScript • Python • Java • Ruby • SQL
-- **Frontend:** React • Next.js • Tailwind CSS
-- **Backend:** Node.js • Ruby on Rails • PostgreSQL • Redis
-- **AI:** LLMs • AI Agents • MCP • Tool Calling • Ollama • Local Inference
-- **Infrastructure:** Docker • Linux • CI/CD • AWS • Cloudflare • Vercel
+* **Languages:** TypeScript • JavaScript • Python • Java • Ruby • SQL
+* **Frontend:** React • Next.js • Tailwind CSS
+* **Backend:** Node.js • Ruby on Rails • PostgreSQL • Redis
+* **AI:** LLMs • AI Agents • MCP • Tool Calling • Ollama • Local Inference
+* **Infrastructure:** Docker • Linux • CI/CD • AWS • Cloudflare • Vercel
 
 ---
 
 ## Featured Work
+
+### 🔬 [ResearchOS](https://research-os.org)
+
+**Evidence-first AI research and writing platform**
+
+Built a research system where AI agents can plan research, discover and use MCP tools, evaluate sources, and synthesize findings while maintaining an evidence trail behind generated claims.
+
+* Agentic research workflows with planning, tool discovery, execution, evaluation, and synthesis
+* MCP integration for connecting agents to external research tools and data sources
+* Evidence trails linking claims to sources, excerpts, tool calls, confidence, and limitations
+* Workspace-based research sessions with saved runs, sources, and revision history
+* APA and MLA paper generation with citations and export support
+* Next.js frontend, Node.js API, PostgreSQL, Firebase authentication, Stripe billing, and Claude API
+
+---
 
 ### 🧠 [Truss](https://truss-agent.com)
 
@@ -70,7 +85,7 @@ I'm particularly interested in the intersection of **software engineering and AI
 
 ## More
 
-- 🌐 **Portfolio:** https://portfolio.hookerhillstudios.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jaredhooker
+* 🌐 **Portfolio:** https://portfolio.hookerhillstudios.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/jaredhooker
 
 Currently open to **Full-Stack Software Engineer** and **AI Engineer** opportunities.
