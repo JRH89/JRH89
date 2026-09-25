@@ -18,6 +18,23 @@ My recent work focuses on **agentic AI, local LLMs, developer tooling, and produ
 
 ## Featured Work
 
+### 🔁 ForgeLoop
+
+**Distributed software engineering harness for autonomous coding agents**
+
+Building an agent orchestration platform that turns feature specifications into verified software changes. ForgeLoop coordinates specialized agents across isolated execution environments and uses builds, tests, containers, browser automation, and independent review to close the loop between generated code and working software.
+
+* Multi-agent orchestration with dependency-aware task graphs and parallel execution
+* Isolated Git worktrees and self-hosted runners for agent execution
+* Closed-loop verification with automated failure detection, repair, and re-verification
+* MCP-based tooling, scoped agent permissions, and targeted repository context
+* Provider-agnostic architecture for hosted APIs, BYOK workflows, and local models
+* Evidence-backed runs tracking tests, tool calls, artifacts, acceptance criteria, and execution metrics
+* Java/Spring Boot control plane with React, GraphQL, PostgreSQL, Docker, and Playwright
+* Independent Ticketly Spring Boot + React SaaS repository for realistic end-to-end agent testing
+
+---
+
 ### 🔬 [ResearchOS](https://research-os.org)
 
 **Evidence-first AI research and writing platform**
