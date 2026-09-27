@@ -18,7 +18,7 @@ My recent work focuses on **agentic AI, local LLMs, developer tooling, and produ
 
 ## Featured Work
 
-### 🔁 ForgeLoop
+### 🔁 [ForgeLoop](https://forgeloop.hookerhillstudios.com)
 
 **Distributed software engineering harness for autonomous coding agents**
 
