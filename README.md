@@ -10,7 +10,7 @@ My recent work focuses on **agentic AI, local LLMs, developer tooling, and produ
 
 * **Languages:** TypeScript • JavaScript • Python • Java • Ruby • SQL
 * **Frontend:** React • Next.js • Tailwind CSS
-* **Backend:** Node.js • Ruby on Rails • PostgreSQL • Redis
+* **Backend:** Node.js • Ruby on Rails • Spring Boot • PostgreSQL • Redis
 * **AI:** LLMs • AI Agents • MCP • Tool Calling • Ollama • Local Inference
 * **Infrastructure:** Docker • Linux • CI/CD • AWS • Cloudflare • Vercel
 
