@@ -1,4 +1,4 @@
-# Jared Hooker
+# Jared Hooker [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JRH89/badge.svg)](https://hub.xerj.org/contributors/JRH89)
 
 **Full-Stack Software Engineer | AI Agents • Developer Tools • SaaS**
 
@@ -15,8 +15,6 @@ My recent work focuses on **agentic AI, local LLMs, developer tooling, and produ
 * **Infrastructure:** Docker • Linux • CI/CD • AWS • Cloudflare • Vercel
 
 ---
-
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JRH89/badge.svg)](https://hub.xerj.org/contributors/JRH89)
 
 ## Featured Work
 
