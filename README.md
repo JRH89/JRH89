@@ -16,6 +16,8 @@ My recent work focuses on **agentic AI, local LLMs, developer tooling, and produ
 
 ---
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JRH89/badge.svg)](https://hub.xerj.org/contributors/JRH89)
+
 ## Featured Work
 
 ### 🔁 [ForgeLoop](https://forgeloop.hookerhillstudios.com)
